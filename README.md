@@ -4,8 +4,8 @@
     * Repository - 
     * Git - Version Control - program for others to work on remotely
     * Clone - copy of program, in this case from git
-    * Fork - 
-    * History -
+    * Fork - get these defintions
+    * History - did it upload to website?
     * Staging -
     * Remote - 
     * Commit -
