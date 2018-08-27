@@ -6,7 +6,7 @@
     * Clone - copy of program, in this case from git
     * Fork - get these defintions
     * History - did it upload to website?
-    * Staging -
+    * Staging -sweeeeet
     * Remote - 
     * Commit -
     * Push -
