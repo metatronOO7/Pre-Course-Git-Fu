@@ -6,9 +6,9 @@
     * Clone - copy of program, in this case from git
     * Fork - get these defintions
     * History - did it upload to website?
-    * Staging -
-    * Remote - 
-    * Commit -
+    * Staging -yaaa
+    * Remote - sweweeeeeet
+    * Commit -will this show
     * Push - save changes to github.com
 
 ## Steps to our Lamba School Git Flow
