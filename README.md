@@ -9,7 +9,7 @@
     * Staging -
     * Remote - 
     * Commit -
-    * Push -how is this up to date if i make changes?
+    * Push - save changes to github.com
 
 ## Steps to our Lamba School Git Flow
     1. Fork repository                              done
