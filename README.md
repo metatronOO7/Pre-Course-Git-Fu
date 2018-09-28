@@ -7,7 +7,7 @@
     * Fork - get these defintions
     * History - did it upload to website?
     * Staging -yaaa
-    * Remote - sweweeeeeet
+    * Remote - sweweeeeeet friday change test
     * Commit -one more time
     * Push - save changes to github.com
     * Pull Request -
