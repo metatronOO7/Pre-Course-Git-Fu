@@ -6,10 +6,10 @@
     * Clone - copy of program, in this case from git
     * Fork - get these defintions
     * History - did it upload to website?
-    * Staging -sweeeeet
+    * Staging -
     * Remote - 
     * Commit -
-    * Push -
+    * Push -how is this up to date if i make changes?
 
 ## Steps to our Lamba School Git Flow
     1. Fork repository                              done
