@@ -10,7 +10,7 @@
     * Remote - sweweeeeeet friday change test
     * Commit -one more time
     * Push - save changes to github.com
-    * Pull Request -
+    * Pull Request -ho ho
     
 ## Steps to our Lamba School Git Flow
     1. Fork repository                              done
