@@ -8,7 +8,7 @@
     * History - did it upload to website?
     * Staging -yaaa
     * Remote - sweweeeeeet
-    * Commit -will this show
+    * Commit -one more time
     * Push - save changes to github.com
 
 ## Steps to our Lamba School Git Flow
